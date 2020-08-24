@@ -28,4 +28,4 @@ Javascript, Node.js
 ​
 #  Direct link to example output file:
 
-https://zaydorade.github.io/Team-profile-generator/output/teamprofile.html
+https://zayd-sarraj.github.io/Team-profile-generator/output/teamprofile.html
